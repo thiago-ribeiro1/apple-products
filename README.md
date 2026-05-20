@@ -29,7 +29,13 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/thiago-ribeiro1/apple-products.git
+```
+```bash
 cd apple-products
+```
+```bash
 npm install
+```
+```bash
 npm run dev
 ```
