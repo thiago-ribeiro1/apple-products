@@ -4,7 +4,7 @@ Aplicação web de teste desenvolvida com **Next.js**, **Tailwind CSS**, **GSAP 
 
 O objetivo do projeto é explorar animações interativas baseadas no movimento de scroll, criando uma experiência visual inspirada em páginas modernas de produtos Apple.
 
-Preview: <img width="1906" height="902" alt="Image" src="https://github.com/user-attachments/assets/a4287f61-eb65-4099-9754-c5f586649f95" />
+<img width="1906" height="902" alt="Image" src="https://github.com/user-attachments/assets/a4287f61-eb65-4099-9754-c5f586649f95" />
 
 ## Tecnologias utilizadas
 
