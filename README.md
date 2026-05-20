@@ -9,7 +9,6 @@ O objetivo do projeto é explorar animações interativas baseadas no movimento 
 ## Tecnologias utilizadas
 
 - Next.js
-- React
 - TypeScript
 - Tailwind CSS
 - GSAP
