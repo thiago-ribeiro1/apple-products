@@ -1,6 +1,6 @@
 # Apple Scrollytelling
 
-Aplicação web de teste desenvolvida com **Next.js**, **Tailwind CSS**, **GSAP ScrollTrigger** e técnicas de **Scrollytelling**.
+Aplicação web desenvolvida com **Next.js**, **Tailwind CSS**, **GSAP ScrollTrigger** e técnicas de **Scrollytelling**.
 
 O objetivo do projeto é explorar animações interativas baseadas no movimento de scroll, criando uma experiência visual inspirada em páginas modernas de produtos Apple.
 
